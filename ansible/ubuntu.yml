@@ -9,9 +9,9 @@
 
   tasks:
   
-    - name: lisataan gdev ip
+    #- name: lisataan gdev ip
     
-    - name: lisataan gdev ip osoitteistoon
+    #- name: lisataan gdev ip osoitteistoon
     
     - name: Make sure apt-transport-https is installed
       become: yes
